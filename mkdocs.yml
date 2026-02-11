@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "Best Vibe ": best-vibe-coding-environments-for-learning-python-.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
